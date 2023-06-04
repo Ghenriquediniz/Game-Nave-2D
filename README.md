@@ -5,5 +5,6 @@ Acesse o meu video para mais detalhes: https://www.youtube.com/watch?v=tgH5gcBYT
 
 
 
-https://github.com/Ghenriquediniz/Game-Nave-2D/assets/110628541/e67a9eed-c01f-4b70-839e-110e9bd4c00e
+
+https://github.com/Ghenriquediniz/Game-Nave-2D/assets/110628541/f93e1920-cf81-469b-9370-04d6811027fe
 
