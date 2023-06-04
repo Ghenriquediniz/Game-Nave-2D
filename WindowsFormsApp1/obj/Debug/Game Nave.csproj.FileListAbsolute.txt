@@ -1,0 +1,14 @@
+C:\Users\guigu\OneDrive\GUI\Programação\Game Nave\WindowsFormsApp1\bin\Debug\Game Nave.exe.config
+C:\Users\guigu\OneDrive\GUI\Programação\Game Nave\WindowsFormsApp1\bin\Debug\Game Nave.exe
+C:\Users\guigu\OneDrive\GUI\Programação\Game Nave\WindowsFormsApp1\bin\Debug\Game Nave.pdb
+C:\Users\guigu\OneDrive\GUI\Programação\Game Nave\WindowsFormsApp1\obj\Debug\Game Nave.csproj.AssemblyReference.cache
+C:\Users\guigu\OneDrive\GUI\Programação\Game Nave\WindowsFormsApp1\obj\Debug\Game Nave.csproj.SuggestedBindingRedirects.cache
+C:\Users\guigu\OneDrive\GUI\Programação\Game Nave\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form_game.resources
+C:\Users\guigu\OneDrive\GUI\Programação\Game Nave\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\guigu\OneDrive\GUI\Programação\Game Nave\WindowsFormsApp1\obj\Debug\Game Nave.csproj.GenerateResource.cache
+C:\Users\guigu\OneDrive\GUI\Programação\Game Nave\WindowsFormsApp1\obj\Debug\Game Nave.csproj.CoreCompileInputs.cache
+C:\Users\guigu\OneDrive\GUI\Programação\Game Nave\WindowsFormsApp1\obj\Debug\Game Nave.exe
+C:\Users\guigu\OneDrive\GUI\Programação\Game Nave\WindowsFormsApp1\obj\Debug\Game Nave.pdb
+C:\Users\guigu\OneDrive\GUI\Programação\Game Nave\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Alerta.resources
+C:\Users\guigu\OneDrive\GUI\Programação\Game Nave\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+C:\Users\guigu\OneDrive\GUI\Programação\Game Nave\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Credito.resources
